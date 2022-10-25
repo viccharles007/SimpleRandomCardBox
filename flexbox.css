@@ -1,0 +1,55 @@
+.sectionh {
+    border: 3px solid black;
+    background-color: rgb(156, 236, 236);
+    text-align: center;
+    height: 50px;
+    width: 345px;
+    font-size: 40px;
+}
+
+div {
+    background-color: blue;
+    height: 250px;
+    width: 350px;
+    display: flex;
+    align-items: center;
+}
+
+.card-right {
+    background-color: plum;
+    border: 2px solid black;
+    width: 250px;
+    height: 250px;
+}
+
+.card-center {
+    background-color: pink;
+    border: 2px solid black;
+    width: 300;
+    height: 250px;
+}
+
+.card-left {
+    background-color: plum;
+    border: 2px solid  black;
+    width: 250px;
+    height: 250px;
+}
+
+.sectionf {
+    border: 3px solid black;
+    background-color: rgb(156, 236, 236);
+    text-align: center;
+    height: 50px;
+    width: 345px;
+    font-size: 40px;
+}
+
+.footer-div {
+    border: 3px solid black;
+    background-color: rgb(156, 236, 236);
+    height: 50px;
+    width: 345px;
+    text-align: center;
+    font-size: 40px;
+}
